@@ -2,16 +2,16 @@
 using namespace std;
 int main()
 {
-	float a,b;
-	cout<<"ingrese a b:"; cin>>a>>b;
-	if(a>b)
+	float PJCB_a,PJCB_b;
+	cout<<"ingrese PJCB_a PJCB_b:"; cin>>PJCB_a>>PJCB_b;
+	if(PJCB_a>PJCB_b)
 	{
-	  cout<<a<<" es mayor a "<<b<<endl;
+	  cout<<PJCB_a<<" es mayor PJCB_a "<<PJCB_b<<endl;
 
 
 	}else{
 
-	  cout<<b<<" es mayor a "<<a<<endl;
+	  cout<<PJCB_b<<" es mayor PJCB_a "<<PJCB_a<<endl;
 
 
 	}
